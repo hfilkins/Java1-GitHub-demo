@@ -16,7 +16,12 @@ public class Main_Demo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    
-System.out.println("Hello, World");
-    }
+    printname();
+
+
+
+    printname();
+          private static void printname() {
+         System.out.println("Linus Tourval"):
+}
 }
